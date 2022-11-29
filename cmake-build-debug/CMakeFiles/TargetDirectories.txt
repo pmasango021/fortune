@@ -1,0 +1,3 @@
+C:/Users/phill/CLionProjects/fortune/cmake-build-debug/CMakeFiles/fortune.dir
+C:/Users/phill/CLionProjects/fortune/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/phill/CLionProjects/fortune/cmake-build-debug/CMakeFiles/rebuild_cache.dir

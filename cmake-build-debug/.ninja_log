@@ -1,0 +1,8 @@
+# ninja log v5
+1	1626	6914318460832945	CMakeFiles/fortune.dir/main.cpp.obj	586f2a42ca97460b
+1640	2362	6914318467440454	fortune.exe	ac9c169bfaad048b
+12	1258	6914320243180533	CMakeFiles/fortune.dir/main.cpp.obj	586f2a42ca97460b
+10	1231	6914320443599003	CMakeFiles/fortune.dir/main.cpp.obj	586f2a42ca97460b
+1232	2565	6914320447405370	fortune.exe	ac9c169bfaad048b
+19	1551	6914321779734622	CMakeFiles/fortune.dir/main.cpp.obj	586f2a42ca97460b
+1552	2048	6914321784429154	fortune.exe	ac9c169bfaad048b
